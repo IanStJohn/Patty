@@ -36,3 +36,13 @@ Patty is a 3D game engine based on SDL and OpenGL developed for the final projec
   - .fbx files are smaller and I personally use theme more often.
 * Add scene transitioning.
 * ... and more!
+
+# Supermassive Omega
+This was the theoretical game to be made with the engine, but as time went on and setbacks kept occuring with engine development, the scope of the game was greatly reduced to meet deadlines. At the moment, the game is no more than a sandbox, where 3D artists can load in their models, load in textures and move around an environment with them. Getting a game working with clickable buttons, a menu system, a scoring system, etc... wasn't possible with the time remaining. So instead of creating a half baked game, time was spent on polishing the engine in hopes that a game could be better integrated into it soon.
+
+## Behind the Scenes Progress
+### 11/28/2020 Progress Video
+[![11/28/2020 Progress Viedo](https://img.youtube.com/vi/1SMLMJfSh4g/0.jpg)](https://www.youtube.com/watch?v=1SMLMJfSh4g)
+In this short clip I show how I got OpenGL hooked into SDL with music and a cool fragment shader effect, I also let off some steam about not being able to render text, which as of writting this on 12/14/2020 is still a goal.
+### Progress Screenshots
+
