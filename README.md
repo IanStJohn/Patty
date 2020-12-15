@@ -55,4 +55,4 @@ Next textures were read in from a file and uploaded to the fragment shader, big 
 And finally a quick skybox was added to make the background seem less dreary.
 ![Skybox Image](https://raw.githubusercontent.com/IanStJohn/PattyEngine/main/wiki/imgs/skybox.png)
 
-## Original Game Proposal
+## [Original Game Proposal](https://github.com/IanStJohn/PattyEngine/blob/main/wiki/docs/final_project_proposal.pdf)
