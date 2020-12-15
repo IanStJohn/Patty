@@ -1,5 +1,5 @@
 # Patty - 3D Game Engine
-# Libraries Used
+## Libraries Used
 * SDL2
 * OpenGL
 * GLEW
