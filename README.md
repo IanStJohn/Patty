@@ -43,6 +43,7 @@ This was the theoretical game to be made with the engine, but as time went on an
 ## Behind the Scenes Progress
 ### 11/28/2020 Progress Video
 [![11/28/2020 Progress Viedo](https://img.youtube.com/vi/1SMLMJfSh4g/0.jpg)](https://www.youtube.com/watch?v=1SMLMJfSh4g)
+
 In this short clip I show how I got OpenGL hooked into SDL with music and a cool fragment shader effect, I also let off some steam about not being able to render text, which as of writting this on 12/14/2020 is still a goal.
 ### Progress Screenshots
 
