@@ -38,6 +38,7 @@ Patty is a 3D game engine based on SDL and OpenGL developed for the final projec
 * ... and more!
 
 ## Most Recent Video Demo
+**Please Use This Video For Grading**
 [![Patty Engine Demo | December 14th, 2020](https://img.youtube.com/vi/HwGO2-L7E-k/0.jpg)](https://www.youtube.com/watch?v=HwGO2-L7E-k)
 
 # Supermassive Omega
