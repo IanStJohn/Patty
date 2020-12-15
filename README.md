@@ -46,4 +46,12 @@ This was the theoretical game to be made with the engine, but as time went on an
 
 In this short clip I show how I got OpenGL hooked into SDL with music and a cool fragment shader effect, I also let off some steam about not being able to render text, which as of writting this on 12/14/2020 is still a goal.
 ### Progress Screenshots
+First we have an image of UVs being uploaded to the fragment shader, producing the colors we see.
+![UVs Uploaded to Fragment Shader](https://raw.githubusercontent.com/IanStJohn/PattyEngine/main/wiki/imgs/uvs.png)
+
+Next textures were read in from a file and uploaded to the fragment shader, big step forward.
+![Textures Uploaded to Fragment Shader](https://raw.githubusercontent.com/IanStJohn/PattyEngine/main/wiki/imgs/textures.png)
+
+And finally a quick skybox was added to make the background seem less dreary.
+![Skybox Image](https://raw.githubusercontent.com/IanStJohn/PattyEngine/main/wiki/imgs/skybox.png)
 
