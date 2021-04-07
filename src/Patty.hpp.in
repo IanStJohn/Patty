@@ -1,0 +1,4 @@
+// the configured options and settings for the engine
+#define PATTY_VERSION_MAJOR @Patty_VERSION_MAJOR@
+#define PATTY_VERSION_MINOR @Patty_VERSION_MINOR@
+#define PATTY_VERSION_PATCH @Patty_VERSION_PATCH@

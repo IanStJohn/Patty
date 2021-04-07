@@ -1,0 +1,3 @@
+H:/Projects/Patty/build/CMakeFiles/Patty.dir
+H:/Projects/Patty/build/CMakeFiles/edit_cache.dir
+H:/Projects/Patty/build/CMakeFiles/rebuild_cache.dir

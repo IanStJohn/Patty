@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Projects/Patty/build/Patty.hpp
+
+H:/Projects/Patty/src/main.cpp
+iostream
+-
+../build/Patty.hpp
+H:/Projects/Patty/build/Patty.hpp
+

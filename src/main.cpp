@@ -1,22 +1,11 @@
-#include "Game.hpp"
-#include <assert.h>
+#include <iostream>
+#include "../build/Patty.hpp"
 
-int main() {
-	PattyEngine::Game* game = new PattyEngine::Game(1920,1080);
-	assert(game);
-	PattyEngine::setGame(game);
-
-	//Start up SDL and create window
-	if(!game->init("Supermassive Omega")) printf("Failed to initialize!\n");
-	else {
-		//Load media
-		if(!game->loadMedia()) printf("Failed to load media!\n");
-		else game->run();
-	}
-
-	game->close();
-
-	delete game;
-
-	return 0;
+int main(int argc, char *argv[]) {
+    if(argc < 2) {
+        std::cout << argv[0] << " Version " << PATTY_VERSION_MAJOR << "." << PATTY_VERSION_MINOR << "." << PATTY_VERSION_PATCH << std::endl;
+        std::cout << "Usage: " << argv[0] << " number" << std::endl;
+        return 1;
+    }
+    return 0;
 }
